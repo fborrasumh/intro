@@ -3,8 +3,8 @@ This repository contains a series of presentations, Google Colaboratory notebook
 
 The course is split into 11 one-hour modules. All computation is done on the cloud using free Google Colaboratory notebooks and free/open-source software: Python and PyTorch. Contents include:
 1. Introduction
-* Survey of recent medical applications  
 * Artificial Intelligence, Machine Learning, Deep Learning: terminology and history
+* Survey of recent medical applications  
 * Overview of the rest of the class
 * Introduction to Google Colaboratory and Python
 
